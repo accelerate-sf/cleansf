@@ -20,3 +20,6 @@ Despite San Francisco's efforts in street and sidewalk cleaning, there's a lack 
 - What mechanisms will you implement to ensure the application remains up-to-date with the latest data from DataSF?
 - How will you design the feedback system to be intuitive and actionable, ensuring that citizen reports translate to on-ground improvements?
 - What features can be added to increase user engagement and promote consistent use of the application by San Francisco residents? 
+
+## Example Hackathon Projects
+* https://devpost.com/software/sf_cleaning_crew
